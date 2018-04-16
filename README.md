@@ -1,5 +1,5 @@
 # ARCore-MusicAR-Particle-Visualization
-MusicAR is a real-time audio visualization experiment using ARCore built with Unity
+MusicAR is a real-time audio visualization experiment using ARCore built with Unity.</br>
 Using the microphone as input, a beat detection algorithm decides when particles are to be emitted from a speaker prefab.
 
 
