@@ -2,6 +2,8 @@
 MusicAR is a real-time audio visualization experiment using ARCore built with Unity.</br>
 Using the microphone as input, a beat detection algorithm decides when particles are to be emitted from a speaker prefab.
 
+# Installation
+The app should work on any ARCore supported device. To see if your device is supported, please check out the following link: https://developers.google.com/ar/discover/#supported_devices.
 
 # Issues Addressed
 Unity's Microphone support does not allow for real-time audio processing, and so the "Beat Detection" algorithm has been adapted to record an average bpm for a given interval, essentially making it a beat "predection" algorithm.</br></br>
