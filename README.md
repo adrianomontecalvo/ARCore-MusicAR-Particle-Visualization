@@ -4,8 +4,11 @@ Using the microphone as input, a beat detection algorithm decides when particles
 
 # Installation
 The app should work on any ARCore supported device. To see if your device is supported, please check out the following link: https://developers.google.com/ar/discover/#supported_devices.
+</br></br>
 Before you can install it on your phone you will need to make sure that third-party apps are allowed on your device. Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
+</br>
 Once that is done, download the MusicAR.apk to your device and install.
+</br></br>
 The app requires microphone functionality, and therefore needs permission to acces your devices microphone. This should be enabled upon installation, but during testing there was an issue with it not being enabled and so, in order to enable this, go to Menu > Settings > Apps > MusicAR and navigate to permissions, and make sure that microphone is enabled.
 
 # Issues Addressed
