@@ -3,7 +3,9 @@ MusicAR is a real-time audio visualization experiment using ARCore built with Un
 Using the microphone as input, a beat detection algorithm decides when particles are to be emitted from a speaker prefab.
 
 # Project Description
-We all know how music can fill a room with its beauty, and yet music is this intangible thing. This project is an attempt to reconcile the way music is able to affect us emotionally, with its immateriality, through depicting it as a cloud of balloons that float out of an audio source and fill the room. 
+We all know how music can fill a room with its beauty, and yet music is this intangible thing. This project is an attempt to reconcile the way music is able to affect us emotionally, with its immateriality, through depicting it as a cloud of balloons that float out of an audio source and fill the room using Augmented Reality.
+</br>
+This AR experiment is an attempt at real-time audio visualization using ARCore. ARCore detects surfaces which you can then place the particle-emitting speaker object, which emits particles based on a beat detection algorithm using the microphone as audio input.
 
 # Installation
 The app should work on any ARCore supported device. To see if your device is supported, please check out the following link: https://developers.google.com/ar/discover/#supported_devices.
